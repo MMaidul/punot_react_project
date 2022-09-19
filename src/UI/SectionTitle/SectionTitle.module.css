@@ -1,0 +1,16 @@
+.section__title {
+  text-align: center;
+  margin: 2rem 0;
+}
+.subTitle {
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+.title {
+  font-weight: 700;
+}
+.desc {
+  width: 50%;
+  margin: 0 auto;
+  padding: 1rem 0;
+}

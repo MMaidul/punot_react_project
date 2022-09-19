@@ -1,0 +1,20 @@
+.about__section {
+  display: flex;
+  justify-content: space-between;
+  padding: 1.5rem 4rem;
+}
+.about__container {
+  width: 50%;
+}
+.about__img {
+  width: 40%;
+}
+
+.about__container .title {
+}
+.about__container .desc {
+  padding: 0.4rem 0;
+}
+.about__img img {
+  width: 100%;
+}
